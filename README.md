@@ -1,6 +1,6 @@
 # tobi-geo-ninjas
 
-> A Vue.js project
+> A Vue.js and Firebase project
 
 ## Build Setup
 
